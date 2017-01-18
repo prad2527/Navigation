@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Navigation View</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="navigation_item_1">Home</string>
+    <string name="navigation_item_2">Events</string>
+    <string name="starred_string">Starred</string>
+    <string name="inbox_string">Inbox</string>
+    <string name="amstrong_no_string">Amstrong No</string>
+    <string name="circle_area_string">Circle Area</string>
+    <string name="chracter_demo_string">Character Demo</string>
+    <string name="even_odd_string">Even Odd</string>
+    <string name="company_insurance_string">Company Insurance</string>
+    <string name="company_driver_string">Company Driver</string>
+    <string name="compound_interest_string">Compound Interest</string>
+    <string name="fernament_centigrade_string">Fernament Centigrade</string>
+    <string name="feet_inches_string">Feet Inches</string>
+    <string name="gross_salary_string">Gross Salary</string>
+    <string name="simple_interest_string">Simple Interest</string>
+    <string name="steel_demo_string">Steel Demo</string>
+    <string name="telephone_bill_string">Telephone Bill</string>
+    <string name="arithmatic_opration_string">Arithmatic Opration</string>
+    <string name="array_opration_string">Array Opration</string>
+    <string name="no_notes_string">No Notes</string>
+    <string name="randam_no_string">Random No</string>
+    <string name="string_demo_string">String Demo</string>
+    <string name="student_result_string">Student Result</string>
+    <string name="two_diamentional_string">Two Diamentional</string>
+
+
+    <string name="sent_mail_string">Sent mail</string>
+    <string name="draft_string">Drafts</string>
+    <string name="subheader">Subheader</string>
+    <string name="trash_string">Trash</string>
+    <string name="all_mail_string">All mails</string>
+    <string name="spam_string">Spams</string>
+    <string name="closeDrawer">Navigation View</string>
+    <string name="openDrawer">Navigation View Closed</string>
+
+</resources>

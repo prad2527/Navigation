@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/inbox"
+            android:checked="false"
+            android:icon="@drawable/ic_inbox_black"
+            android:title="@string/inbox_string" />
+
+        <item
+            android:id="@+id/amstrong_no"
+            android:checked="false"
+            android:title="@string/amstrong_no_string" />
+
+        <item
+            android:id="@+id/circle_area"
+            android:checked="false"
+            android:title="@string/circle_area_string" />
+
+        <item
+            android:id="@+id/character_demo"
+            android:checked="false"
+            android:title="@string/chracter_demo_string" />
+
+        <item
+            android:id="@+id/even_odd"
+            android:checked="false"
+            android:title="@string/even_odd_string" />
+
+
+        <item
+            android:id="@+id/company_insurance"
+            android:checked="false"
+            android:title="@string/company_insurance_string" />
+
+
+        <item
+            android:id="@+id/company_driver"
+            android:checked="false"
+            android:title="@string/company_driver_string" />
+
+        <item
+            android:id="@+id/compound_interest"
+            android:checked="false"
+            android:title="@string/compound_interest_string" />
+
+        <item
+            android:id="@+id/fernament_centegrade"
+            android:checked="false"
+            android:title="@string/fernament_centigrade_string" />
+
+        <item
+            android:id="@+id/feet_inches"
+            android:checked="false"
+            android:title="@string/feet_inches_string" />
+
+        <item
+            android:id="@+id/gross_salary"
+            android:checked="false"
+            android:title="@string/gross_salary_string" />
+
+        <item
+            android:id="@+id/simple_interest"
+            android:checked="false"
+            android:title="@string/simple_interest_string" />
+
+        <item
+            android:id="@+id/steel_demo"
+            android:checked="false"
+            android:title="@string/steel_demo_string" />
+
+        <item
+            android:id="@+id/telephone_bill"
+            android:checked="false"
+            android:title="@string/telephone_bill_string" />
+
+
+        <item
+            android:id="@+id/arithmatic_opration"
+            android:checked="false"
+            android:title="@string/arithmatic_opration_string" />
+
+
+        <item
+            android:id="@+id/array_opration"
+            android:checked="false"
+            android:title="@string/array_opration_string" />
+
+        <item
+            android:id="@+id/no_notes"
+            android:checked="false"
+            android:title="@string/no_notes_string" />
+
+
+        <item
+            android:id="@+id/random_no"
+            android:checked="false"
+            android:title="@string/randam_no_string" />
+
+        <item
+            android:id="@+id/string_demo"
+            android:checked="false"
+            android:title="@string/string_demo_string" />
+
+        <item
+            android:id="@+id/student_result"
+            android:checked="false"
+            android:title="@string/student_result_string" />
+
+        <item
+            android:id="@+id/two_diamentional"
+            android:checked="false"
+            android:title="@string/two_diamentional_string" />
+
+
+        <item
+            android:id="@+id/starred"
+            android:checked="false"
+            android:icon="@drawable/ic_star_black"
+            android:title="@string/starred_string" />
+
+        <item
+            android:id="@+id/sent_mail"
+            android:checked="false"
+            android:icon="@drawable/ic_send_black"
+            android:title="@string/sent_mail_string" />
+
+        <item
+            android:id="@+id/drafts"
+            android:checked="false"
+            android:icon="@drawable/ic_drafts_black"
+            android:title="@string/draft_string" />
+
+
+        <item
+            android:id="@+id/allmail"
+            android:checked="false"
+            android:icon="@drawable/ic_email_black"
+            android:title="@string/all_mail_string" />
+
+        <item
+            android:id="@+id/trash"
+            android:checked="false"
+            android:icon="@drawable/ic_delete_black"
+            android:title="@string/trash_string" />
+
+        <item
+            android:id="@+id/spam"
+            android:checked="false"
+            android:icon="@drawable/ic_error_black"
+            android:title="@string/spam_string" />
+
+    </group>
+</menu>
+
+
+
+
+
+
